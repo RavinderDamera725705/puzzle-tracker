@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 05:53:02</sys_created_on>
+        <sys_id>b811b1902f2320101f5952172799b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_525172_puzzle_tr_puzzle.x_525172_puzzle_tr.user</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_525172_puzzle_tr">5f1071102f2320101f5952172799b6f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">5f1071102f2320101f5952172799b6f8</sys_scope>
+        <sys_security_acl display_value="x_525172_puzzle_tr_puzzle">7011b1902f2320101f5952172799b6b4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b811b1902f2320101f5952172799b6b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 05:53:02</sys_updated_on>
+        <sys_user_role display_value="x_525172_puzzle_tr.user" name="x_525172_puzzle_tr.user">065075502f2320101f5952172799b6f7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
